@@ -5,7 +5,7 @@
 
 🎯 I'm on Github to make connections with people who breathe innovation and want to share their experiences with the world.
 
-🕹️ I'm currently a web development student at Trybe and i'm interested in HTML, CSS, JAVASCRIPT.
+🕹️ I'm currently a web development student at [Trybe](https://www.betrybe.com/) and i'm interested in HTML, CSS, JAVASCRIPT, PYTHON.
 
 📬 If you are interested in connecting with me, send me an email to marcomaurer@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/marcomaurer/?locale=en_US)
 
