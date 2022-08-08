@@ -1,4 +1,6 @@
 #Hello-World
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomaurer&color=yellow" alt="Profile views" /> </p>
+
 
 🌈 I'm @MarcoMaurer, nice to meet you! 🇧🇷 🇨🇦
 
