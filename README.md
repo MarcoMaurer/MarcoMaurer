@@ -1,16 +1,13 @@
-### Hi there 👋
+#Hello-World
 
-<!--
-**MarcoMaurer/MarcoMaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌈 I'm @MarcoMaurer, nice to meet you! 🇧🇷 🇨🇦
 
-Here are some ideas to get you started:
+🎯 I'm on Github to make connections with people who breathe innovation and want to share their experiences with the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️‍🔥 I love :my boyfrind :my friends :my dogs :music :travel
+
+🕹️ I'm currently a web development student at Trybe and i'm interested in HTML, CSS, JAVASCRIPT.
+
+📬 If you are interested in connecting with me, send me an email to marcomaurer@gmail.com
+
+I currently live in Brazil, but I'm in love with Canada and I intend to immigrate there.
